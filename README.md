@@ -5,7 +5,8 @@ How to use this skeleton:
     3. Rename POTION.theme, POTION.libraries.yml, POTION.info.yml and POTION.breakpoints.yml files with your theme name such as 'druid.theme'.
     4. Search for 'POTION' on the whole theme folder and replace it with your theme name such as 'druid'.
     5. Run npm install.
-    6. You are set to start theming.
+    6. Remove this 'How to use this skeleton' text from Readme.
+    7. You are set to start theming.
 
 All style changes are done in the src/scss folder and generated into css automatically using gulp.
 
